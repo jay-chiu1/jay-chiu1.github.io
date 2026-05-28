@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "JavaScript graphics"
+excerpt: "I learned to use javascript coding, used timers and loops to create a story of bread
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
